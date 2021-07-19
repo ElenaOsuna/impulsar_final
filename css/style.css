@@ -4,6 +4,7 @@
   padding: 0;
   box-sizing: border-box;
   scroll-behavior: smooth;
+  background-color: #50ca38;
 }
 
 /*FONTS --------------------------------------------------------------------------------*/
@@ -57,11 +58,6 @@ header nav .container .navbar-collapse .navbarimpulsar li a:hover {
 main .containerHome {
   padding-top: 4em;
   width: 100%;
-  background-image: url("../img/fondo_w2_top.jpg");
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
-  object-fit: contain;
 }
 main .containerHome .contAll .homeMain .parrafoHome {
   margin: 10em 0 0 0;
