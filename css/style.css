@@ -130,6 +130,7 @@ main .containerHome .contAll .btnWhatsapp {
 }
 .containerHola .row {
   margin: 0;
+  background-color: blue;
 }
 .containerHola .row .tituloSectionhola {
   display: flex;
